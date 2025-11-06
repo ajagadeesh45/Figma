@@ -117,7 +117,7 @@ frame4
 
 ## OUTPUT:
 
-<img width="701" height="341" alt="output" src="https://github.com/user-attachments/assets/c28c106f-4f36-4423-a300-b2a818dd9bd1" />
+![alt text](output.png)
 
 
 ## RESULT:
